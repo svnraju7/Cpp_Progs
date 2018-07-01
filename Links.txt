@@ -1,0 +1,27 @@
+QuntLib:
+http://www.callenbach.eu/
+
+FAQ:
+http://www.dietmar-kuehl.de/mirror/c++-faq/
+
+Code Imp : 
+http://realanalysiszone.com/?p=186
+
+http://simplestcodings.blogspot.com/2014/04/builder-design-pattern-implementation.html
+
+
+Var:
+https://www.glynholton.com/blog/risk-measurement/var_measure/
+
+
+c++ -11: https://blog.smartbear.com/development/the-biggest-changes-in-c11-and-why-you-should-care/
+
+SOLID: C++ principle : https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/
+
+CopyCOnstrs: http://www.keithschwarz.com/cs106l/winter20072008/handouts/170_Copy_Constructor_Assignment_Operator.pdf
+
+
+Complexity&Analysis: https://www.hackerearth.com/practice/notes/sorting-and-searching-algorithms-time-complexities-cheat-sheet/
+
+DataStructures: https://www.studytonight.com/data-structures/queue-data-structure
+LinkedList: http://www-bcf.usc.edu/~stejada/csci102/slides/exam2/06a_linkedlist.pdf
